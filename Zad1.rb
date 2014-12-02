@@ -31,7 +31,7 @@ class CharDiff
         j+=1
         stan=1
       end
-      if(@wyraz1[i] ==" "and stan==2)
+      if(@wyraz1[i] ==" "and stan==1)
         break
       end
        
